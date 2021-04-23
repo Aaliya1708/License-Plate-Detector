@@ -5,10 +5,10 @@ like so.
 <p align="center">
 <img src="sample_plates/plate_1.jpg?raw=true" align="center"/>
 
-image
+<h6 align="center">image</h6>
 <h2 align="center">HR26DK6475</h2>
 
-prediction
+<h2 align="center">prediction</h6>
 </p>
 
 Salient Features
