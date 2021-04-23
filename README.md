@@ -33,8 +33,10 @@ Below is a flow chart of our approach.
 We are able to segmentize using our model in varies lighting conditions and scenarios. We have achieved high accuracy in many Indian and Non-Indian based Number plates. 
 One can find many outputs in "inference/output" folder. 
 Below is the output of our algorithm on a simple yet challenging video.
-![Output](curves/output.gif)
 
+<p align="center">
+<img src="curves/output.gif?raw=true" align="center"/>
+</p>
 
 **Note: We have used GTX 1650 to run all demonstrations and achieved a FPS of 20-30.**
 ## Training Metrics
