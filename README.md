@@ -8,7 +8,7 @@ like so.
 <h6 align="center">image</h6>
 <h2 align="center">HR26DK6475</h2>
 
-<h2 align="center">prediction</h6>
+<h6 align="center">prediction</h6>
 </p>
 
 Salient Features
