@@ -34,6 +34,8 @@ We are able to segmentize using our model in varies lighting conditions and scen
 One can find many outputs in "inference/output" folder. 
 Below is the output of our algorithm on a simple yet challenging video.
 ![Output](curves/output.gif)
+
+
 **Note: We have used GTX 1650 to run all demonstrations and achieved a FPS of 20-30.**
 ## Training Metrics
 |Model Name| F1 Score| Giou loss | Validation |
