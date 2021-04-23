@@ -11,8 +11,25 @@ image
 prediction
 </p>
 
+Salient Features
+- Asfd
+- ASdf
+- asfd
+
 ## Our Approach
 
+We have used Yolo v5 to get bounding boxes for characters. We trained it on a custom dataset of 1000 license plates (augmented to 5000 images).
+We have also used another Yolo v5 to get bounding boxes of license plates from full images as explained in the salient features. Here we used a dataset of 300 images only.
+Finally for character recognition we had trained a simple CNN model with 36 output layers, trained on [CHAR-47 dataset](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/) with a bit of data augmentation.
+
+Our architectture is a robust and the most efficient one compared to Unets or Faster RCNN because we have inculcated state-of-the-art Yolov5 models.
+Below is a flow chart of our approach.
+
+<p align="center">
+<img src="sample_plates/approach.png?raw=true" align="center"/>
+</p>
+
+## Results
 
 ## Training Metrics
 |Model Name| F1 Score| Giou loss | Validation |
