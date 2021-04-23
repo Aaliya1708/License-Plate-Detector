@@ -2,11 +2,11 @@
 Automated Number Plate Detection is a very important problem in our day to day world, from tolls to security cameras these have enumerous applications.
 We present you the solution of Mosaic'21 Problem Statement 2, which asks us to make a algorithm which detections the Vehicle Number from the image of its number plate.
 like so.
-<p align="center">
-<img src="sample_plates/plate_1.jpg?raw=true" align="center"/>
 
+<img src="sample_plates/plate_1.jpg?raw=true" align="center"/>
+<p align="center">
 image
-<h2>HR26DK6475</h2>
+<h2 align="center">HR26DK6475</h2>
 prediction
 </p>
 ## Our Approach
