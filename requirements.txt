@@ -1,0 +1,12 @@
+# pip install -U -r requirements.txt
+numpy==1.17
+scipy==1.4.1
+opencv-python
+# torch==1.5.1
+# torchvision==0.6.1
+matplotlib
+pycocotools
+tqdm
+pillow
+tensorboard
+pyyaml
