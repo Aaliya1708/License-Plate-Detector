@@ -26,7 +26,7 @@ Our architectture is a robust and the most efficient one compared to Unets or Fa
 Below is a flow chart of our approach.
 
 <p align="center">
-<img src="sample_plates/approach.png?raw=true" align="center"/>
+<img src="curves/approach.png?raw=true" align="center"/>
 </p>
 
 ## Results
