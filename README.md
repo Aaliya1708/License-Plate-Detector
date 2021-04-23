@@ -11,10 +11,10 @@ like so.
 <h6 align="center">prediction</h6>
 </p>
 
-Salient Features
-- Asfd
-- ASdf
-- asfd
+## Salient Features
+- Our algorithm automatically segments License Plate out of the Full image for better accuracy.
+- It is robust in all lighting conditions and is not dependent on any hyperparameter of the image.
+- Our Algorithm is the most efficient of all methods with such a high accuracy, which enables us to deploy this on entry level hardware easy, making it more accesible.
 
 ## Our Approach
 
@@ -30,7 +30,11 @@ Below is a flow chart of our approach.
 </p>
 
 ## Results
-
+We are able to segmentize using our model in varies lighting conditions and scenarios. We have achieved high accuracy in many Indian and Non-Indian based Number plates. 
+One can find many outputs in "inference/output" folder. 
+Below is the output of our algorithm on a simple yet challenging video.
+![Output](curves/output.gif)
+**Note: We have used GTX 1650 to run all demonstrations and achieved a FPS of 20-30.**
 ## Training Metrics
 |Model Name| F1 Score| Giou loss | Validation |
 |--|--|--|--|
